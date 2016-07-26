@@ -1,0 +1,3 @@
+/Users/aziz/Documents/workspace/opencv-practice/BlurImage/BlurImage/CMakeFiles/edit_cache.dir
+/Users/aziz/Documents/workspace/opencv-practice/BlurImage/BlurImage/CMakeFiles/rebuild_cache.dir
+/Users/aziz/Documents/workspace/opencv-practice/BlurImage/BlurImage/CMakeFiles/BlurImage.dir
